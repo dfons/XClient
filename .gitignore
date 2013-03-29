@@ -4,6 +4,9 @@
 *.jar
 *.war
 *.ear
+!lib/*.jar
+!lib/CopyLibs/*.jar
+!lib/absolutelayout/*.jar
 
 # Directories #
 dist
