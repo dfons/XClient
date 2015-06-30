@@ -19,7 +19,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // Create and start reader.
-        XReader2 xReader = new XReader2("157.92.51.250", 9002);
+        XReader2 xReader = new XReader2("10.0.0.102", 9002);
         xReader.start();
 
         // Create and start console view.
